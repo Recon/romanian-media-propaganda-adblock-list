@@ -4,8 +4,15 @@ Lista AdBlock ce contine site-uri media cu comportament ciudat, creata dupa camp
 
 
 Link lista: [https://raw.githubusercontent.com/Recon/romanian-media-propaganda-adblock-list/master/ro-media-blocklist.txt](https://raw.githubusercontent.com/Recon/romanian-media-propaganda-adblock-list/master/ro-media-blocklist.txt)
+Link subscribe: [**subscribe**](https://raw.githubusercontent.com/Recon/romanian-media-propaganda-adblock-list/master/ro-media-blocklist.txt&title=Romanian Media Propaganda) (*nota: link-ul de subscribe automat nu functioneaza cu toate addon-urile*)
 
-Link subscribe: [Click pentru subscribe automat](abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FRecon%2Fromanian-media-propaganda-adblock-list%2Fmaster%2Fro-media-blocklist.txt&amp;title=Romanian%20Media%20Propaganda)
+### Instructiuni
+
+Aceasta lista este compatibila cu AdBlock, AdBlock Plus, uBlock si alte addon-uri similare. Pentru a adauga aceasta lista in clientul dumneavoastra, trebuie sa
+accesati optiunile addon-ului instalat (accesibile de obicei prin meniul ce se deschide dand click pe iconita din toolbar) si sa adaugati link-ul de mai sus in lista personala.
+
+- [Instructiuni AdBlock Plus](https://adblockplus.org/getting_started#add-subscription)
+- [Instructiuni uBlock Origin](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
 
 
 #### Adaugare site
