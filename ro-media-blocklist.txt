@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201511121859
+! Version: 201511131009
 ! Title: Romanian Media Propaganda
-! Last Modified: 12 Nov 2015 18:59 UTC
+! Last Modified: 13 Nov 2015 10:09 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Recon/romanian-media-propaganda-adblock-list
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -24,7 +24,6 @@
 ||reportervirtual.ro^
 ||onlinereport.ro^
 ||blastingnews.com^
-||infoalert.ro^
 ||cyd.ro^
 ||dcnews.ro^
 ||criticatac.ro^
@@ -41,3 +40,5 @@
 ||wowbiz.ro^
 ||vremuritulburi.com^
 ||glasul.info^
+||bitpress.ro^
+||ziaristionline.ro^
